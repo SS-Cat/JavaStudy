@@ -1,0 +1,6 @@
+Um aplicativo Java é um programa de computador que é executado quando você utiliza o comando java para carregar a Java
+Virtual Machine (JVM). Mais adiante, nesta seção, discutiremos como compilar e executar um aplicativo Java. Primeiro consideramos
+um aplicativo simples que exibe uma linha de texto. A Figura 2.1 mostra o programa seguido por uma caixa que exibe sua saída.
+O programa inclui os números de linha. Adicionamos esses números para propósitos instrutivos — eles não fazem parte de
+um programa Java. Esse exemplo ilustra vários recursos Java importantes. Veremos que a linha 9 faz o trabalho — exibindo a frase
+Welcome to Java Programming! na tela

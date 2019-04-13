@@ -1,0 +1,2 @@
+100 Bob Blue 55,70
+200 Num cei 0,00
